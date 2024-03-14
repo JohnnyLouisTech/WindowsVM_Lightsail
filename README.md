@@ -26,6 +26,7 @@ d. Pick an instance plan. You can try the $8 USD Lightsail plan free for three m
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/d9507a1a-6191-411e-987f-1a61622e8714)
 
 e. Please enter a name for your instance.
+
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/88b0581c-a31e-4727-b1e5-aed5a8cd25f7)
 
 . (Optional) Choose one of the following options to add tags to your instance:
