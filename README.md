@@ -35,6 +35,7 @@ e. Please enter a name for your instance.
 Key-value tags can only be added one at a time before saving. To add more than one key-value tag, repeat the previous steps.
 
 g. Choose to Create instance here.
+
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/af23737d-86ee-4d4e-97f5-c8d49a3cd6fc)
 
 Step 4: Connect to your instance using the browser-based RDP client in Lightsail. Click on “Connect” to start the connection.
@@ -52,6 +53,7 @@ b. Select the Connect tab, scroll down to the Default login credentials section 
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/a45b01ab-06db-4eb6-b960-781efc293a45)
 
 Default Password shown below
+
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/9d1bfc2e-81ad-46f8-93b1-b703774db5b3)
 
 Important: If you changed the administrator password after signing in to your Windows Server 2022 instance, then the administrator password displayed in the Lightsail console is no longer valid.
@@ -60,6 +62,7 @@ Step 6: You now have full access to the Windows Server 2022 instance.
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/8f12ad72-9797-4f4b-a3cf-f2bb15a70645)
 
 Step 7: Clean up
+
 a. On the Instances tab of the Lightsail home page, choose the ellipsis (⋮) icon next to the Windows Server instance you just created and choose Delete.
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/aeda6410-4266-4bf9-bdbe-aa3d066f8f3a)
 
