@@ -22,6 +22,7 @@ c. (Optional) Choose Add launch script to add your own PowerShell script — you
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/bc443104-4d38-4430-ae52-77b2b3b070df)
 
 d. Pick an instance plan. You can try the $8 USD Lightsail plan free for three months (up to 750 hours). You actually have 3 months for free with this plan.
+
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/d9507a1a-6191-411e-987f-1a61622e8714)
 
 e. Please enter a name for your instance.
