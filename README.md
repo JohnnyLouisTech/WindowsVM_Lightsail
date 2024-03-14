@@ -40,6 +40,7 @@ g. Choose to Create instance here.
 
 Step 4: Connect to your instance using the browser-based RDP client in Lightsail. Click on “Connect” to start the connection.
 a. On the Instances tab of the Lightsail home page, choose the RDP icon, or the ellipsis (⋮) icon next to the Windows Server 2019 instance you just created and choose Connect.
+
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/3d33bd5f-2d10-4476-b97f-5833d7bc4175)
 
 b. The browser-based RDP client window appears. You can use and manage your instance without configuring a third-party RDP client.
@@ -47,9 +48,11 @@ b. The browser-based RDP client window appears. You can use and manage your inst
 
 Step 5: Get an administrator password for your Windows Server 2022 instance.
 a. Choose the name of the Windows Server 2019 instance on the Instances tab of the Lightsail homepage.
+
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/4255381b-fd96-4c79-ad6b-9401b584612e)
 
 b. Select the Connect tab, scroll down to the Default login credentials section of the page, and choose Retrieve default password.
+
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/a45b01ab-06db-4eb6-b960-781efc293a45)
 
 Default Password shown below
