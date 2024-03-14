@@ -59,14 +59,17 @@ Default Password shown below
 Important: If you changed the administrator password after signing in to your Windows Server 2022 instance, then the administrator password displayed in the Lightsail console is no longer valid.
 
 Step 6: You now have full access to the Windows Server 2022 instance.
+
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/8f12ad72-9797-4f4b-a3cf-f2bb15a70645)
 
 Step 7: Clean up
 
 a. On the Instances tab of the Lightsail home page, choose the ellipsis (⋮) icon next to the Windows Server instance you just created and choose Delete.
+
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/aeda6410-4266-4bf9-bdbe-aa3d066f8f3a)
 
 b. Choose Yes, to confirm deletion of your running instance from the prompt.
+
 ![image](https://github.com/JohnnyLouisTech/WindowsVM_Lightsail/assets/29494723/0afe471d-3700-4a54-8fc0-a8ddfaf78af1)
 
 
